@@ -1,0 +1,32 @@
+model:
+  type: RandomForestRegressor
+  hyperparameters:
+    n_estimators: 100
+    random_state: 42
+
+parameters:
+  DPV:
+    Start Potential (V): -0.5
+    End Potential (V): 0.5
+    Step Potential (V): 0.005
+    Pulse Amplitude (V): 0.05
+    Pulse Width (s): 0.05
+    Scan Rate (V/s): 0.05
+
+  Chronoamperometry:
+    Deposition Potential (V): 0.0
+    Deposition Time (s): 0.0
+    Conditioning Potential (V): 0.0
+    Conditioning Time (s): 0.0
+    Equilibration Time (s): 0.0
+    Interval Time (s): 0.1
+    Potential (V): 0.0
+    Run Time (s): 1.0
+
+  EIS:
+    DC Potential (V): 0.0
+    AC Amplitude (V): 0.01
+    Start Frequency (Hz): 100000.0
+    End Frequency (Hz): 10000.0
+    Number of Frequencies: 11
+    Equilibration Time (s): 0.0
