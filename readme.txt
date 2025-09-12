@@ -1,6 +1,6 @@
 # Creatinine ML Sensor
 
-A desktop application for creatinine quantification using electrochemical sensing combined with machine learning.
+A desktop application requires Python 3.8, for creatinine quantification using electrochemical sensing combined with machine learning.
 
 ## Features
 - Data acquisition from electrochemical sensor (via PalmSens SDK)
