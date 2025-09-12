@@ -7,4 +7,4 @@ train:
 	python train_model.py
 
 run:
-	python mainapp.py
+	python main.py
