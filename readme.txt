@@ -84,6 +84,13 @@ Voltage (V),Current (A)
 ```
 
 ---
+## Screenshots
+
+**Main GUI Window**
+![Main Window](data/gui_main.png)
+
+**Prediction Result Popup**
+![Prediction Result](data/prediction_example.png)
 
 ## Extending the pipeline to a new analyte
 
