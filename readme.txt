@@ -146,7 +146,6 @@ pythonnet==3.0.1
 If you use this software, please cite:
 
 **"An Automated, Machine Learning Integrated Platform for Real-Time Quantification of Serum Creatinine in Clinical Samples"**  
-*Digital Discovery, Royal Society of Chemistry, 2025*  
 DOI: *(to be updated after acceptance)*
 
 ---
